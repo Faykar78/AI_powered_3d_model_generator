@@ -77,7 +77,7 @@ This project integrates and builds upon the following repositories:
 
 ```bash
 # 1. Clone all required repos
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Faykar78/AI_powered_3d_model_generator.git
 cd your-repo
 
 # 2. Setup environments for each dependency (YOLO, SAM, OpenPose, PIFuHD)
