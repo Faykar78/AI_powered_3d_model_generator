@@ -52,8 +52,8 @@ This project is a pipeline that detects a person in an image, segments them prec
 | Stage | Output |
 |-------|--------|
 | **1. YOLO Detection** | ![Detection](yolo_detected.jpg) |
-| **2. SAM Masking** | ![Masked](maksed_output.jpg) |
-| **3. 3D Mesh (PIFuHD)** | ![3D Mesh](generated_mesh.jpg) |
+| **2. SAM Masking** | ![Masked](masked_output.jpg) |
+| **3. 3D Mesh (PIFuHD)** | ![3D Mesh](final_mesh.jpg) |
 
 ---
 
