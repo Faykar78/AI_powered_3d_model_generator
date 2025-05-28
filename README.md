@@ -67,7 +67,7 @@ This project is a pipeline that detects a person in an image, segments them prec
 
 This project integrates and builds upon the following repositories:
 
-- 🔗 Ultralyrics: [https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
+- 🔗 Ultralytics: [https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
 - 🔗 SAM (Segment Anything): [https://github.com/facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)
 - 🔗 PIFuHD: [https://github.com/facebookresearch/pifuhd](https://github.com/facebookresearch/pifuhd)
 
