@@ -28,7 +28,7 @@ This project is a pipeline that detects a person in an image, segments them prec
 
 ## 🧠 Models Used
 
-- **YOLOv5** – Person detection from full image.
+- **Yolov11** – Person detection from full image.
 - **SAM (Segment Anything Model)** – Precise mask of detected person.
 - **OpenPose** – Extracts pose landmarks to improve mesh accuracy.
 - **PIFuHD** – Reconstructs 3D mesh from masked image input.
@@ -67,7 +67,7 @@ This project is a pipeline that detects a person in an image, segments them prec
 
 This project integrates and builds upon the following repositories:
 
-- 🔗 YOLOv5: [https://github.com/ultralytics/yolov5](https://github.com/ultralytics/yolov5)
+- 🔗 Ultralyrics: [https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
 - 🔗 SAM (Segment Anything): [https://github.com/facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)
 - 🔗 PIFuHD: [https://github.com/facebookresearch/pifuhd](https://github.com/facebookresearch/pifuhd)
 
